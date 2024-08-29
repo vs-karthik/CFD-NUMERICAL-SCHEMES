@@ -1,4 +1,5 @@
  Description<br/>
+ 
     Problem1 : Using 0<=x<=1 and intial square wave(u=1 for 0.4<=x<=0.6 and 0 elsewhere). forward in time and central in space scheme as been implemented on 1D diffusion equation for various timesteps.
 
     problem2: For intial sinusoidal wave with wave number k = 4pi and covcetion velocity of 1m/s .Lax Wendroff and Lax Fredrichs approach have been implemented on 1D convection equation.
